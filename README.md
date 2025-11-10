@@ -151,7 +151,7 @@ Assuming you’ve got the right hardware—and maybe even a bit of experience wi
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/AbdulrahmanGoda/Outdoor-Autonomous-Delivery-Robot.git
+    git clone https://github.com/Abdelrahman-gouda/Outdoor-Autonomous-Delivery-Robot.git
     cd Outdoor-Autonomous-Delivery-Robot
     ```
 
@@ -199,4 +199,4 @@ Assuming you’ve got the right hardware—and maybe even a bit of experience wi
 ## Contact Me
 
 If you encounter an issue, have a question, or need clarification about this project, feel free to open an issue on this repository.  
-You can also reach out to me directly via [LinkedIn](https://www.linkedin.com/in/abdulrahman-goda-899700233/) or Email: abdulrahmangoda@hotmail.com.
+You can also reach out to me directly via [LinkedIn](https://www.linkedin.com/in/abdelrahman-gouda-899700233/) or Email: abdelrahman-gouda@hotmail.com.
